@@ -151,10 +151,11 @@ main {
 }
 
 .index .fake-button {
-    width: 250px;
+    width: 248px;
     display: inline-block; 
     margin: 0 75px; 
     text-align: center;
+    justify-content: center;
 }
 
 /************* bookings page *************/

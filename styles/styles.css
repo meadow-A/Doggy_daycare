@@ -150,11 +150,16 @@ main {
     margin-bottom: 12px;
 }
 
+.index .button-container {
+    display: flex; 
+    justify-content: center; 
+    gap: 150px; 
+}
+
 .index .fake-button {
-    width: 250px;
-    display: inline-block; 
-    margin: 0 75px; 
-    text-align: center;
+    width: 248px; 
+    text-align: center; 
+    line-height: 3;
 }
 
 /************* bookings page *************/
